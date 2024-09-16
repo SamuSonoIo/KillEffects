@@ -1,0 +1,13 @@
+GUI:
+  ItemNames:
+    Anvil: "§6Anvil"
+    Explosion: "§cExplosive"
+    FireWorks: "§cFireWorks"
+    Thunder: "§2Thunder"
+
+Messages:
+  EffectType: "§7[§e!§7] Il tuo effetto è:§e "
+  EffectTypeNull: "§7[§e!§7] Il tuo effetto è nullo."
+  Selected: "§7[§e!§7] Hai selezionato l'effetto:§e "
+  NoPermission: "§7[§e!§7] Non hai abbastanza permessi!"
+  Reloaded: "§7[§e!§7] I file di configurazione sono stati ricaricati!"

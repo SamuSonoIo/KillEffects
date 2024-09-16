@@ -1,0 +1,12 @@
+name: KillEffects
+version: '${version}'
+main: me.samu.killeffects.KillEffects
+api-version: '1.17'
+prefix: KillEffects+
+authors: [Samu]
+description: Custom Kill Effect plugin
+commands:
+  killeffects:
+    description: Open KILL EFFECTS GUI!
+  getkilleffect:
+    description: Get your kill effect
